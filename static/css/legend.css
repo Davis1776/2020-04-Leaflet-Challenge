@@ -1,7 +1,8 @@
 .legend {
     line-height: 22px;
-    color: rgb(7, 7, 7);
+    color: black;
     text-align: right;
+    background-color: snow;
 }
 .legend i {
     width: 35px;
