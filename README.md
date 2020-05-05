@@ -36,8 +36,7 @@ I selected data collection for the past 30 days on earthquakes with a 1.0+ magni
 <p align="center">
   <img width="932" height="132" src="Images/MRD_USGSheader.png?raw=true)">
 </p>
-   The USGS provides earthquake data in a number of different formats, updated every 5 minutes 
-   at [USGSGeoJSONFeed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) . When you click on a data set, for example 'All Earthquakes from the Past 30 Days', you will be given a JSON representation of that data. I used the URL of this JSON to pull in the data for my visualization.
+The USGS provides earthquake data in a number of different formats, updated every 5 minutes at [USGSGeoJSONFeed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php). When you click on a data set, for example 'All Earthquakes from the Past 30 Days', you will be given a JSON representation of that data. I used the URL of this JSON to pull in the data for my visualization.
 
 ![USGSjson](Images/MRD_USGSjsonSelected.png)
 
