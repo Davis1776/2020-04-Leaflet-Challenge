@@ -4,6 +4,11 @@
 
 ## Background
 
+<p align="center">
+  <img width="600" height="200" src=![1-Logo](Images/1-Logo.png)>
+
+
+
 ![1-Logo](Images/1-Logo.png)
 
 The United States Geological Survey (USGS) is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. The have some of the top scientists in the world who develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
