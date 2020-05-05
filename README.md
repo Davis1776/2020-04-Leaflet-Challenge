@@ -53,7 +53,7 @@ I created a map using Leaflet that plots all of the earthquakes from the last 30
    * What time the earthquake occured (with GMT and EDT).
    * The magnitude of the earthquake.
 * The legends provides a range of magnitude with a color:
-[Legend](Images/MRD_Legend.png)
+![Legend](Images/MRD_Legend.png)
    * 1.0-2.5 magnitude = blue
    * 2.5-4.0 magnitude = green
    * 4.0-5.5 magnitude = yellow
