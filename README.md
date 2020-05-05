@@ -81,7 +81,7 @@ The final step was to upload this project to **[GitHubPages](https://davis1776.g
 * Data Source: [United States Geological Survey (USGS)]()
 * [JSON](https://www.json.org/json-en.html) documentation was used in collecting the data.
 * [Leaflet](https://leafletjs.com/) documenation was used in building the map.
-* Butler University Data Analytics and Visualization Executive Education program and instructors for assistance.
+* [Butler University Data Analytics and Visualization Executive Education program](https://www.butler.edu/executive-education) and instructors for assistance.
 * Hat tip to Triology Education Services for providing the challenge guidelines.
 
 
