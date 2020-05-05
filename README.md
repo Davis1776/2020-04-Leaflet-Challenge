@@ -74,7 +74,7 @@ The final step was to upload this project to **[GitHubPages](https://davis1776.g
 
 ## Author
 
-* **Michael Davis** - **[Davis1776](https://github.com/Davis1776)**
+* **Michael R. Davis** - **[Davis1776](https://github.com/Davis1776)**
 
 ## Acknowledgments
 
@@ -86,4 +86,4 @@ The final step was to upload this project to **[GitHubPages](https://davis1776.g
 
 
 ## Copyright
-Michael Davis © 2020. All Rights Reserved.
+Michael R. Davis © 2020. All Rights Reserved.
