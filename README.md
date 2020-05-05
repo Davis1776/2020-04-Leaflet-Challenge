@@ -13,23 +13,22 @@ The United States Geological Survey (USGS) is responsible for providing scientif
 In this project, I want to build a new set of tools that will visualize USGS earthquake data. They collect a massive amount of data from all over the world each day and a robust set of vizzes help tell important stories from their data collected. Important policy and funding decisions that impact the public's health and safety use this data.
 
 
-### Setup up Github repo to oraganize plots, code, and date collected from the USGS data
+## Setup up Github repo to oraganize plots, code, and date collected from the USGS data
 
 1. I created a new GitHub repository for this project called `leaflet-challenge`.
 2. I cloned this new repository to my computer.
-3. Inside your local git repository, create a directory for the Leaflet challenge. Use the folder names to correspond to the challenges: **Leaflet-Step-1** and **Leaflet-Step-2**.
+3. Inside my local git repository, I created a directory for this Leaflet challenge.
 4. This project utilizes both **html** and **Javascript**.
 5. Pushed the above changes to GitHub.
 
 
-## Projec Documentation
+## Project Documentation
 
 ### 1. **Select the USGS data feed to collect**
 I selected data collection for the past 30 days on earthquakes with a 1.0+ magnitude.
 <p align="center">
   <img width="181" height="754" src="Images/MRD_USGSfeeds.png?raw=true)">
 </p>   
-
 
 
 ### 2. **Collect the USGS data set using an API**
@@ -39,9 +38,7 @@ I selected data collection for the past 30 days on earthquakes with a 1.0+ magni
 </p>
    The USGS provides earthquake data in a number of different formats, updated every 5 minutes at [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php). When you click on a data set, for example 'All Earthquakes from the Past 7 Days', you will be given a JSON representation of that data. You will be using the URL of this JSON to pull in the data for our visualization.
 
-<p align="center">
-  <img width="181" height="754" src="Images/MRD_USGSjsonSelected.png?raw=true)">
-</p> 
+[USGSjson](Images/MRD_USGSjsonSelected.png)
 
 
 ### 3. **Visualize the Data**
@@ -63,7 +60,20 @@ I created a map using Leaflet that plots all of the earthquakes from the last 30
    * 5.5-7.0 magnitude = orange
    * 7.0+ magnitude = red
 
+### 4. **Upload to GitHub Pages**
+
+The final step was to upload this project to GitHub pages to create a live site.
+
 - - -
+## Tools used
+
+* Javascript
+* HTML
+* Json
+* Leaflet
+* GitHub and GitHub Pages
+* API
+
 ## Author
 
 * **Michael Davis** - [Davis1776](https://github.com/Davis1776)
@@ -73,6 +83,9 @@ I created a map using Leaflet that plots all of the earthquakes from the last 30
 * Data Source: [United States Geological Survey (USGS)]()
 * [JSON](https://www.json.org/json-en.html) documentation was used in collecting the data.
 * [Leaflet](https://leafletjs.com/) documenation was used in building the map.
+* Butler University Data Analytics and Visualization Executive Education program and instructors for assistance.
+* Hat tip to Triology Education Services for providing the challenge guidelines.
+
 
 ## Copyright
 Michael Davis © 2020. All Rights Reserved.
