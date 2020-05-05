@@ -27,10 +27,10 @@ In this project, I want to build a new set of tools that will visualize USGS ear
 ### 1. **Collect the USGS data set**
 
 <p align="center">
-  <img width="600" height="200" src="Images/MRD_USGSsite.png?raw=true)">
+  <img width="1469" height="943" src="Images/MRD_USGSsite.png?raw=true)">
 </p>
 <p align="center">
-  <img width="600" height="200" src="Images/MRD_USGSfeeds.png?raw=true)">
+  <img width="181" height="754" src="Images/MRD_USGSfeeds.png?raw=true)">
 </p>   
    The USGS provides earthquake data in a number of different formats, updated every 5 minutes at [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php). When you click on a data set, for example 'All Earthquakes from the Past 7 Days', you will be given a JSON representation of that data. You will be using the URL of this JSON to pull in the data for our visualization.
 
