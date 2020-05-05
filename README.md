@@ -1,7 +1,6 @@
 # <p align="center">Visualizing USGS Earthquake Data with Leaflet</p>
 
-<p align="center">
-  <img width="600" height="200" src=![MainScreenShot](Images/MRD_MainMapScreenShot.png)></p>
+<p align="center"> ![MainScreenShot](Images/MRD_MainMapScreenShot.png)></p>
 
 ## Background
 
