@@ -36,7 +36,7 @@ I selected data collection for the past 30 days on earthquakes with a 1.0+ magni
 <p align="center">
   <img width="932" height="132" src="Images/MRD_USGSheader.png?raw=true)">
 </p>
-   The USGS provides earthquake data in a number of different formats, updated every 5 minutes at [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php). When you click on a data set, for example 'All Earthquakes from the Past 7 Days', you will be given a JSON representation of that data. You will be using the URL of this JSON to pull in the data for our visualization.
+   The USGS provides earthquake data in a number of different formats, updated every 5 minutes at [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php). When you click on a data set, for example 'All Earthquakes from the Past 30 Days', you will be given a JSON representation of that data. I used the URL of this JSON to pull in the data for my visualization.
 
 [USGSjson](Images/MRD_USGSjsonSelected.png)
 
@@ -45,7 +45,7 @@ I selected data collection for the past 30 days on earthquakes with a 1.0+ magni
 
 I created a map using Leaflet that plots all of the earthquakes from the last 30 days with a magnitude of 1.0+ based on the longitude and latitude of the earthquake.
 
-* The data markers should reflect the magnitude of the earthquake in their size and color.
+* The data markers reflect the magnitude of the earthquake in their size and color.
 * Earthquakes with lower magnitudes appear smaller and in a blue or green color.
 * Earthquakes with higher magnitudes appear larger and in a orange or red color.
 * When clicking on a specific earthquake, the following additional information is provided:
@@ -53,12 +53,8 @@ I created a map using Leaflet that plots all of the earthquakes from the last 30
    * What time the earthquake occured (with GMT and EDT).
    * The magnitude of the earthquake.
 * The legends provides a range of magnitude with a color:
+
 ![Legend](Images/MRD_Legend.png)
-   * 1.0-2.5 magnitude = blue
-   * 2.5-4.0 magnitude = green
-   * 4.0-5.5 magnitude = yellow
-   * 5.5-7.0 magnitude = orange
-   * 7.0+ magnitude = red
 
 ### 4. **Upload to GitHub Pages**
 
@@ -72,7 +68,6 @@ The final step was to upload this project to GitHub pages to create a live site.
 * Json
 * Leaflet
 * GitHub and GitHub Pages
-* API
 
 ## Author
 
