@@ -27,7 +27,7 @@ In this project, I want to build a new set of tools that will visualize USGS ear
 ### 1. **Collect the USGS data set**
 
 <p align="center">
-  <img width="1469" height="943" src="Images/MRD_USGSsite.png?raw=true)">
+  <src="Images/MRD_USGSsite.png?raw=true)">
 </p>
 <p align="center">
   <img width="181" height="754" src="Images/MRD_USGSfeeds.png?raw=true)">
