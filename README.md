@@ -54,11 +54,13 @@ I created a map using Leaflet that plots all of the earthquakes from the last 30
    * The magnitude of the earthquake.
 * The legends provides a range of magnitude with a color:
 
+<p align="center">
 ![Legend](Images/MRD_Legend.png)
+</p>
 
 ### 4. **Upload to GitHub Pages**
 
-The final step was to upload this project to GitHub pages to create a live site.
+The final step was to upload this project to **[GitHubPages](https://davis1776.github.io/2020-04-Leaflet-Challenge/)** to create a live site.
 
 - - -
 ## Tools used
@@ -71,7 +73,7 @@ The final step was to upload this project to GitHub pages to create a live site.
 
 ## Author
 
-* **Michael Davis** - [Davis1776](https://github.com/Davis1776)
+* **Michael Davis** - **[Davis1776](https://github.com/Davis1776)**
 
 ## Acknowledgments
 
