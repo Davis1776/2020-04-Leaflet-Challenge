@@ -5,8 +5,8 @@
 ## Background
 
 <p align="center">
-  <img width="600" height="200" src=![1-Logo](Images/1-Logo.png)>
-
+  <img width="600" height="200" src="Images/1-Logo.png?raw=true)">
+</p>
 
 
 ![1-Logo](Images/1-Logo.png)
