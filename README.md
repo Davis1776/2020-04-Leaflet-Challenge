@@ -1,7 +1,7 @@
 # <p align="center">Visualizing USGS Earthquake Data with Leaflet</p>
 
 <p align="center">
-  <img width="600" height="200" src="C:\Users\Michael\DataViz\GitHub\2020-04-Leaflet-Challenge\Images\MRD_MainMapScreenShot.png?raw=true)"></p>
+  <img width="600" height="200" src=![MainScreenShot](Images/MRD_MainMapScreenShot.png)></p>
 
 ## Background
 
