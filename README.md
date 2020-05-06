@@ -1,6 +1,6 @@
 # <p align="center">Visualizing USGS Earthquake Data with Leaflet</p>
 
-![MainScreenShot](Images/MRD_MainMapScreenShot.png)
+![MainScreenShot](Images/MRD_MainMapScreenShot.png "Screenshot of Completed Earthquake Data homepage")
 
 ## Background
 
@@ -34,7 +34,7 @@ I selected data collection for the past 30 days on earthquakes with a 1.0+ magni
 ### 2. **Collect the USGS data set using an API**
 
 <p align="center">
-  <img width="932" height="132" src="Images/MRD_USGSheader.png?raw=true)" "USGS homepage screenshot">
+  <img width="932" height="132" src="Images/MRD_USGSheader.png?raw=true)">
 </p>
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes at
 
