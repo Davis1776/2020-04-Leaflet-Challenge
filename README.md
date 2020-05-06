@@ -34,13 +34,13 @@ I selected data collection for the past 30 days on earthquakes with a 1.0+ magni
 ### 2. **Collect the USGS data set using an API**
 
 <p align="center">
-  <img width="932" height="132" src="Images/MRD_USGSheader.png?raw=true)">
+  <img width="932" height="132" src="Images/MRD_USGSheader.png?raw=true)" "USGS homepage screenshot">
 </p>
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes at
 
 [USGS Geo JSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php "USGS Geo JSON Feed"). When you click on a data set, for example 'All Earthquakes from the Past 30 Days', you will be given a JSON representation of that data. I used the URL of this JSON to pull in the data for my visualization.
 
-![USGSjson](Images/MRD_USGSjsonSelected.png "USGS Geo JSON Feed")
+![USGSjson](Images/MRD_USGSjsonSelected.png "USGS Geo JSON Feed screenshot")
 
 
 ### 3. **Visualize the Data**
@@ -56,7 +56,7 @@ I created a map using Leaflet that plots all of the earthquakes from the last 30
    * The magnitude of the earthquake.
 * The legends provides a range of magnitude with a color:
 
-# <p align="center"> ![Legend](Images/MRD_Legend.png) </p>
+# <p align="center"> ![Legend](Images/MRD_Legend.png "Legend screenshot") </p>
 
 
 ### 4. **Upload to GitHub Pages**
@@ -74,11 +74,11 @@ The final step was to upload this project to **[GitHubPages](https://davis1776.g
 
 ## Author
 
-* **Michael R. Davis** - **[Davis1776](https://github.com/Davis1776 "GitHub for Michael Davis)**
+* **Michael R. Davis** - **[Davis1776](https://github.com/Davis1776 "GitHub for Michael Davis")**
 
 ## Acknowledgments
 
-* Data Source: [United States Geological Survey (USGS)]()
+* Data Source: [United States Geological Survey (USGS) "USGS Homepage"]()
 * [JSON](https://www.json.org/json-en.html "JSON") documentation was used in collecting the data.
 * [Leaflet](https://leafletjs.com/ "Leaflet.js") documenation was used in building the map.
 * [Butler University Data Analytics and Visualization Executive Education program](https://www.butler.edu/executive-education "Butler University Executive Education Homepage") and instructors for assistance.
