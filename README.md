@@ -78,7 +78,7 @@ The final step was to upload this project to **[GitHubPages](https://davis1776.g
 
 ## Acknowledgments
 
-* Data Source: [United States Geological Survey (USGS) "USGS Homepage"]()
+* Data Source: [United States Geological Survey (USGS)](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php "USGS Homepage")
 * [JSON](https://www.json.org/json-en.html "JSON") documentation was used in collecting the data.
 * [Leaflet](https://leafletjs.com/ "Leaflet.js") documenation was used in building the map.
 * [Butler University Data Analytics and Visualization Executive Education program](https://www.butler.edu/executive-education "Butler University Executive Education Homepage") and instructors for assistance.
