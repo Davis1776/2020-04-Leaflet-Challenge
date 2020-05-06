@@ -38,9 +38,9 @@ I selected data collection for the past 30 days on earthquakes with a 1.0+ magni
 </p>
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes at
 
-[USGS Geo JSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php). When you click on a data set, for example 'All Earthquakes from the Past 30 Days', you will be given a JSON representation of that data. I used the URL of this JSON to pull in the data for my visualization.
+[USGS Geo JSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php "USGS Geo JSON Feed"). When you click on a data set, for example 'All Earthquakes from the Past 30 Days', you will be given a JSON representation of that data. I used the URL of this JSON to pull in the data for my visualization.
 
-![USGSjson](Images/MRD_USGSjsonSelected.png)
+![USGSjson](Images/MRD_USGSjsonSelected.png "USGS Geo JSON Feed")
 
 
 ### 3. **Visualize the Data**
@@ -61,7 +61,7 @@ I created a map using Leaflet that plots all of the earthquakes from the last 30
 
 ### 4. **Upload to GitHub Pages**
 
-The final step was to upload this project to **[GitHubPages](https://davis1776.github.io/2020-04-Leaflet-Challenge/)** to create a live site.
+The final step was to upload this project to **[GitHubPages](https://davis1776.github.io/2020-04-Leaflet-Challenge/ "GitHub Page for this project")** to create a live site.
 
 - - -
 ## Tools used
@@ -74,16 +74,16 @@ The final step was to upload this project to **[GitHubPages](https://davis1776.g
 
 ## Author
 
-* **Michael R. Davis** - **[Davis1776](https://github.com/Davis1776)**
+* **Michael R. Davis** - **[Davis1776](https://github.com/Davis1776 "GitHub for Michael Davis)**
 
 ## Acknowledgments
 
 * Data Source: [United States Geological Survey (USGS)]()
-* [JSON](https://www.json.org/json-en.html) documentation was used in collecting the data.
-* [Leaflet](https://leafletjs.com/) documenation was used in building the map.
-* [Butler University Data Analytics and Visualization Executive Education program](https://www.butler.edu/executive-education) and instructors for assistance.
+* [JSON](https://www.json.org/json-en.html "JSON") documentation was used in collecting the data.
+* [Leaflet](https://leafletjs.com/ "Leaflet.js") documenation was used in building the map.
+* [Butler University Data Analytics and Visualization Executive Education program](https://www.butler.edu/executive-education "Butler University Executive Education Homepage") and instructors for assistance.
 * Hat tip to Triology Education Services for providing the challenge guidelines.
 
 
 ## Copyright
-Michael R. Davis © 2020. All Rights Reserved.
+Michael R. Davis :copyright: 2020. All Rights Reserved.
